@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author yuwei 增加测试分支注释、增加注释1
+ * @author yuwei 增加测试分支注释、增加注释1、增加注释2
  */
 @SpringBootApplication
 @MapperScan("com.uiero.spring.mapper")
