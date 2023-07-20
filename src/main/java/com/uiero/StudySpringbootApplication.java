@@ -13,6 +13,7 @@ public class StudySpringbootApplication {
 
     public static void main(String[] args) {
         System.out.println("创建dev分支");
+        System.out.println("创建dev分支1");
         SpringApplication.run(StudySpringbootApplication.class, args);
     }
 
