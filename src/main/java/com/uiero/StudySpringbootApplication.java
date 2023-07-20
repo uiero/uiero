@@ -11,6 +11,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.uiero.spring.mapper")
 public class StudySpringbootApplication {
 
+    /**
+     * 功能描述:
+     * 〈main〉
+     *
+     * @param args args
+     * @return : void
+     * @author : yuwei
+     * @date : 2023/7/20 16:16
+     */
     public static void main(String[] args) {
         System.out.println("创建dev分支");
         System.out.println("创建dev分支1");
